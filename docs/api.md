@@ -58,9 +58,9 @@ Return the list of friends of for a Player.
 ]
 ```
 
-### GET /players/:id/lastEvents
+### GET /players/:id/upcoming-events
 
-Return the last events a Player has been in.
+Return the upcoming events for a Player.
 
 ```json
 [
